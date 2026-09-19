@@ -81,8 +81,8 @@
 ## Воспроизведение
 
 ```bash
-git clone https://github.com/<ВАШ_НИК>/<ИМЯ_РЕПО>.git
-cd <ИМЯ_РЕПО>
+git clone https://github.com/Necrobos/a-b_test_project.git
+cd a-b_test_project
 python -m venv venv && source venv/Scripts/activate   # Windows Git Bash
 pip install -r requirements.txt
 jupyter notebook
